@@ -93,7 +93,6 @@ CREATE TABLE `usuarios` (
 -- Extraindo dados da tabela `usuarios`
 --
 
-INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`) VALUES
 
 --
 -- Indexes for dumped tables
